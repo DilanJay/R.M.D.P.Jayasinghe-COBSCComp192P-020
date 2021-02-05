@@ -50,7 +50,7 @@ class ViewController: UIViewController {
         btnDivide.layer.borderWidth = 1
         btnPercentage.layer.borderWidth = 1
         btnPlusOrMinus.layer.borderWidth = 1
-        btnAC.layer.borderWidth = 2
+        btnAC.layer.borderWidth = 1
     }
 
 
